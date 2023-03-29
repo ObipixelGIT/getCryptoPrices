@@ -13,6 +13,7 @@ pip3 install requests, hashlib, datetime, timedelta, prettytable
 ```
 
 - Change the number of days you wish to use to go back t fetch top-performing 100 cryptocurrencies (eg. days_back = 30)
+- You can also change the "100" so that you can work with less or more cryprocurrencies.
 
 
 ## Permissions
